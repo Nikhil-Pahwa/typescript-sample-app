@@ -1,16 +1,17 @@
 # About
-This is boilerplate for Typescript.
+This is a boilerplate for Typescript.
 
 ## Prerequisite
-* ts-node 
+* 'ts-node' (Optional): 
 To install ts-node run command `npm install ts-node -g`
 
-* typescript
+* 'typescript'
 Require typescript > v2.0 , run command `npm install typescript -g`
 
 ## Debug and run typescript
+First approach to run the typescript file 
 * Select the ts file that you want to execute.
-* Select the debug panel from left section and click start debugging ( The green play icon at the top).
+* Select the debug panel from left section and click start debugging ( The green play icon at the top ).
 * Apply the debug point to debug
  
 Second approach to run the typescript file 
