@@ -60,3 +60,6 @@ typings/
 # JS files
 .js
 .map.js
+
+# Dist
+dist/
